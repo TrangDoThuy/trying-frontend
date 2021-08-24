@@ -1,0 +1,49 @@
+.text {
+  text-align: justify;
+}
+.subHeaderContainer {
+  background-color: #d52322;
+  padding: 40px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.subHeader1_Red {
+  color: #d52322;
+  font-size: 32px;
+  font-weight: bold;
+}
+.subHeader1 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+.subHeader2_red {
+  color: #d52322;
+  font-size: 24px;
+}
+.subHeader2_white {
+  color: white;
+  font-size: 24px;
+}
+#styledCard {
+  margin-bottom: 10px;
+}
+#subHeader3 {
+  color: #d52322;
+}
+
+.informationWrapper {
+  /* background-color: gray; */
+  margin-left: 220px;
+  margin-right: 220px;
+  margin-top: 50px;
+}
+
+#imageHolder {
+  padding-right: 20px;
+  width: 100%;
+  margin-top: 60px;
+}
+.eachPart {
+  margin-bottom: 60px;
+}

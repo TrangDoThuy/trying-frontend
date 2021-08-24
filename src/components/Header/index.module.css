@@ -1,0 +1,52 @@
+.logo {
+  display: flex;
+  padding-right: 5px;
+}
+#finmonster_logo {
+  width: auto;
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#hua_liang_logo {
+  width: auto;
+  height: 30px;
+}
+#nameCo_op {
+  padding-top: 5px;
+  color: #202675;
+}
+.button {
+  background-color: #d52322;
+  border-color: #d52322;
+  color: white;
+}
+.button:hover {
+  background-color: white;
+}
+.button:click {
+  background-color: rgb(221, 94, 94);
+}
+.link {
+  color: white;
+}
+
+.logoutButton {
+  background-color: white;
+  color: gray;
+  border-color: white;
+  cursor: pointer;
+  margin-left: 34%;
+  font-size: 12px;
+}
+.logoutButton:hover {
+  background-color: white;
+  color: gray;
+  border-color: white;
+}
+
+.logoutButton:focus {
+  background-color: white;
+  color: gray;
+  border-color: white;
+}

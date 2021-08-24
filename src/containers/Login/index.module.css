@@ -1,0 +1,65 @@
+.informationWrapper {
+  /* background-color: gray; */
+  margin-left: 37%;
+  margin-right: 37%;
+  margin-top: 150px;
+  margin-bottom: 200px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.subHeader1_Red {
+  color: #d52322;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.submit {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 50px;
+  background-color: #d52322;
+  border: 1px solid #d52322;
+  float: right;
+}
+.submit:hover {
+  background-color: white;
+  color: #d52322;
+  border: 1px solid #d52322;
+}
+.lineLogin {
+  display: flex;
+}
+.createAccount {
+  margin-left: 2px;
+  margin-right: 20px;
+  color: #d52322;
+  font-weight: bold;
+}
+.createAccount:hover {
+  color: #d52322;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.titleModal {
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.bodyModal {
+  text-align: center;
+}
+.icon_success {
+  text-align: center;
+  color: green;
+  transform: scale(3);
+  margin-top: 20px;
+}
+.icon_failure {
+  text-align: center;
+  color: #d52322;
+  transform: scale(3);
+  margin-top: 20px;
+}

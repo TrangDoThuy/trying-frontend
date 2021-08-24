@@ -1,0 +1,49 @@
+.informationWrapper {
+  /* background-color: gray; */
+  margin-left: 27%;
+  margin-right: 27%;
+  margin-top: 50px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.subHeader1_Red {
+  color: #d52322;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 50px;
+}
+.submit {
+  margin-left: 40%;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 50px;
+  background-color: #d52322;
+  border: 1px solid #d52322;
+}
+.titleModal {
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.bodyModal {
+  text-align: center;
+}
+.icon_success {
+  text-align: center;
+  color: green;
+  transform: scale(3);
+  margin-top: 20px;
+}
+.icon_failure {
+  text-align: center;
+  color: #d52322;
+  transform: scale(3);
+  margin-top: 20px;
+}

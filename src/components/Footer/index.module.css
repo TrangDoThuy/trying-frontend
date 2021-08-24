@@ -1,0 +1,36 @@
+.logo {
+  display: flex;
+
+  padding-right: 50px;
+}
+#finmonster_logo {
+  width: auto;
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#hua_liang_logo {
+  width: auto;
+  height: 30px;
+}
+#nameCo_op {
+  padding-top: 9px;
+  color: #202675;
+  font-size: 12px;
+}
+#nameCo_op:hover {
+  text-decoration: none;
+}
+.logoBox {
+  /* background-color: blue; */
+
+  display: flex;
+}
+#whatsapp_logo {
+  width: 50px;
+  float: right;
+  margin-bottom: 30px;
+  position: fixed;
+  bottom: 0;
+  right: 20px;
+}

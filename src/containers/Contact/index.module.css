@@ -1,0 +1,89 @@
+.leftCol {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 40px;
+  margin-top: 5px;
+  padding: 45px;
+  padding-bottom: 70px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.rightCol {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 5px;
+  margin-top: 5px;
+  padding: 45px;
+  padding-bottom: 60px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.title {
+  color: #d52322;
+  font-size: 32px;
+  font-weight: bold;
+}
+.titleBold {
+  color: #d52322;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.note {
+  color: gray;
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+.label {
+  font-weight: bold;
+}
+.submit {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #d52322;
+  border: 1px solid #d52322;
+  float: right;
+}
+.submit:hover {
+  background-color: white;
+  color: #d52322;
+  border: 1px solid #d52322;
+}
+
+.subtitle {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.info {
+  margin-top: 10px;
+}
+.text {
+  margin-bottom: 10px;
+}
+.textFollow {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+.titleModal {
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.bodyModal {
+  text-align: center;
+}
+.icon_success {
+  text-align: center;
+  color: green;
+  transform: scale(3);
+  margin-top: 20px;
+}
+.icon_failure {
+  text-align: center;
+  color: #d52322;
+  transform: scale(3);
+  margin-top: 20px;
+}
